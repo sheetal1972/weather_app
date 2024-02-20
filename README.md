@@ -20,4 +20,5 @@ with the same formate given in example
 
 **Note:**  Use your own API_KEY in handler.go file line number 14 openWeatherMapAPIKey = "your_api_key"
 
-![image](https://github.com/sheetal1972/weather_app/assets/160625825/3211666e-40ec-412c-a9ce-f4702116a79c)
+
+![image](https://github.com/sheetal1972/weather_app/assets/160625825/8b4e5c4e-232d-4ea4-998b-e04f9fbd0a88)
