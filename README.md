@@ -22,3 +22,6 @@ with the same formate given in example
 
 
 ![image](https://github.com/sheetal1972/weather_app/assets/160625825/8b4e5c4e-232d-4ea4-998b-e04f9fbd0a88)
+
+
+![image](https://github.com/sheetal1972/weather_app/assets/160625825/21d6bcd8-60db-4a3f-b492-87ece60df5d2)
