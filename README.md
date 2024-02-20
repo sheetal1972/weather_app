@@ -23,5 +23,11 @@ with the same formate given in example
 
 ![image](https://github.com/sheetal1972/weather_app/assets/160625825/8b4e5c4e-232d-4ea4-998b-e04f9fbd0a88)
 
+Enter coordinates and click on **Get Weather** button
 
 ![image](https://github.com/sheetal1972/weather_app/assets/160625825/21d6bcd8-60db-4a3f-b492-87ece60df5d2)
+
+
+Expected output:
+
+![image](https://github.com/sheetal1972/weather_app/assets/160625825/5fc97dc1-7489-4c95-93c7-de0cd3b2db63)
