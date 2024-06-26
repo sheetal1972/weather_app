@@ -3,17 +3,30 @@
 # please follow the steps to build the app in your local and run the below commands in your cli
 git clone https://github.com/sheetal1972/weather_app.git ( clone the Git Repository )
 
-- cd weather_app
+## Installation
 
-- go mod init weather_app
+To install and run the Weather App, follow these steps:
 
-  **Note:**  make sure you have go setup in your local
+1. **Clone the repository**:
+    ```sh
+    git clone <repository-url>
+    cd weather-app
+    ```
 
-- go mod tidy
+2. **Set up Go modules**:
+    ```sh
+    go mod tidy
+    ```
 
-- go build       will create a binary with your repo name
+3. **Build the application**:
+    ```sh
+    go build ./cmd/weather
+    ```
 
-- ./weather_app
+4. **Run the application**:
+    ```sh
+    ./weather
+    ```
 
 now open a web browser http://localhost:8080 you are able see the weather Report page with box where user need to enter the coordinates 
 with the same formate given in example
